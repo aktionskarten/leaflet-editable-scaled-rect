@@ -1,6 +1,6 @@
 {
   "name": "leaflet-editable-scaled-rect",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Enforce a ratio on rectangles for Leaflet Editable",
   "main": "editor.js",
   "dependencies": {
