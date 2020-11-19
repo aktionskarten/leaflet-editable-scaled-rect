@@ -1,4 +1,4 @@
-import 'leaflet'
+import L from 'leaflet'
 import 'leaflet-editable'
 
 //
