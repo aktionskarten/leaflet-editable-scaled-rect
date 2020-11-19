@@ -8,7 +8,7 @@ landscape letters.
 
 See the following examples for demonstration:
 
-* https://aktionskarten.github.io/leaflet-text/
+* https://aktionskarten.github.io/leaflet-editable-scaled-rect/index.html
 
 
 ## Install
